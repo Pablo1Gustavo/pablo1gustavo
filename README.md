@@ -4,17 +4,18 @@
 <img src="https://img-07.stickers.cloud/packs/6d8db270-c2bd-47ec-826d-9c5579e68647/webp/a9c1602e-6d38-4166-a7cc-307fb5909203.webp" height="200"/>
  <p/>
 
-### About me:
+## About me:
 * I.T. Undergraduation student at UFRN - Natal - Brazil .
 * High school with technical course in informatics at IFRN - Caicó - Brazil.
-#### Programming is my sport
+
+### Programming is my sport
 One of my hobbies is competitive programming, it's something I dedicate myself a lot. It brought me a lot of skills in algorithms and data structure. My achievements:
 * 🏅 Medal of honor in <a href="https://olimpiada.ic.unicamp.br/" target="_blank">OBI</a> (brazilian programming olympiad) 2022 edition, in   
 university category, 44th place.
 * ⬆️ Classification to the Maratona de Programação finals (ICPC South America/Brazil Finals) 2022 editiion.
 * ⬆️ 4 participations in OBI finals.
 
-### FInd me:
+## FInd me:
 <a href="https://www.linkedin.com/in/pablo-gustavo/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <a/>
