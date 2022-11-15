@@ -1,6 +1,10 @@
-## Hi 👋, I'm Pablo Gustavo
+# Hi 👋, I'm Pablo Gustavo
 
-#### About me:
+<p align="center">
+<img src="https://img-07.stickers.cloud/packs/6d8db270-c2bd-47ec-826d-9c5579e68647/webp/a9c1602e-6d38-4166-a7cc-307fb5909203.webp" height="200"/>
+ <p/>
+
+### About me:
 * I.T. Undergraduation student at UFRN - Natal - Brazil .
 * High school with technical course in informatics at IFRN - Caicó - Brazil.
 #### Programming is my sport
@@ -10,12 +14,7 @@ university category, 44th place.
 * ⬆️ Classification to the Maratona de Programação finals (ICPC South America/Brazil Finals) 2022 editiion.
 * ⬆️ 4 participations in OBI finals.
 
-#### Fun fact
-<p align="center">
-<img src="https://img-07.stickers.cloud/packs/6d8db270-c2bd-47ec-826d-9c5579e68647/webp/a9c1602e-6d38-4166-a7cc-307fb5909203.webp" height="200"/><br>
-I'm Hatsune Miku fan. <p/>
-
-#### FInd me:
+### FInd me:
 <a href="https://www.linkedin.com/in/pablo-gustavo/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <a/>
