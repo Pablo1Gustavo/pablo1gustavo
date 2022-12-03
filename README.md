@@ -4,7 +4,7 @@
 <p align="center">
 <img src="https://media.tenor.com/AR3XscM43PgAAAAC/hakurei-reimu-eating.gif" height="250"/>
 <br/>
-<img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=pablo1gustavo&logo=Github&style=for-the-badge&color=red"/>
+<img src="https://komarev.com/ghpvc/?username=pablo1gustavo&color=red"/>
  </p>
 
 ## About me:
