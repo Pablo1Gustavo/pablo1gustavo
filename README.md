@@ -79,8 +79,3 @@ university category, 44th place.
 </a>
 <br/>
 📧 E-mail: <b>pablo1gustavo1dev.@gmail.com</b>
-
----
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pablo1gustavo&theme=dracula"/>
-</p>
