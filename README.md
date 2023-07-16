@@ -7,12 +7,12 @@
 <img src="https://komarev.com/ghpvc/?username=pablo1gustavo&color=red"/>
  </p>
 
-## About me:
+## ℹ️ About me:
 * I.T. Undergraduation student at UFRN - Natal - Brazil .
 * High school with technical course in informatics at IFRN - Caicó - Brazil.
 
 <details>
-<summary><h2>Skills:</h2></summary>
+<summary><h2>🔓 Skills:</h2></summary>
 <h3>Programming languages</h3>
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -62,7 +62,7 @@
 </details>
 
 
-## Programming is my sport
+## 📈 Programming is my sport
 One of my hobbies is competitive programming, it's something I dedicate myself a lot. It brought me a lot of skills in algorithms and data structure. My achievements:
 * 🏅 Medal of honor in <a href="https://olimpiada.ic.unicamp.br/" target="_blank">OBI</a> (brazilian programming olympiad) 2022 edition, in   
 university category, 44th place.
