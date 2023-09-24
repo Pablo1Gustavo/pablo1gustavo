@@ -78,6 +78,9 @@ university category, 44th place.
 <a href="https://codeforces.com/profile/Pablo1Gustavo" target="_blank">
 <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/>
 </a>
+<a href="https://leetcode.com/Pablo1Gustavo/" target="_blank">
+<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+</a>
 <br/>
 📧 E-mail: <b>pablo1gustavo1dev.@gmail.com</b>
 
