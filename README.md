@@ -8,8 +8,9 @@
  </p>
 
 ## ℹ️ About me:
-* I.T. Undergraduation student at UFRN - Natal - Brazil .
+* I.T. Undergraduation student at UFRN - Natal - Brazil.
 * High school with technical course in informatics at IFRN - Caicó - Brazil.
+* Fun fact: I love Touhou Project and rythim games (honorable mention for Hatsune Miku).
 
 <details>
 <summary><h2>🔓 Skills:</h2></summary>
@@ -63,7 +64,9 @@
 
 
 ## 📈 Programming is my sport
-One of my hobbies is competitive programming, it's something I dedicate myself a lot. It brought me a lot of skills in algorithms and data structure. My achievements:
+One of my hobbies is competitive programming, it's something I dedicate myself a lot. It brought me a lot of skills in algorithms and data structure.
+
+My achievements:
 * 🏅 Medal of honor in <a href="https://olimpiada.ic.unicamp.br/" target="_blank">OBI</a> (brazilian programming olympiad) 2022 edition, in   
 university category, 44th place.
 * ⬆️ 4 participations in OBI finals.
